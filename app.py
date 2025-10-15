@@ -164,8 +164,8 @@ def home():
     return jsonify({
         "message": "Flask API is running successfully!",
         "endpoints": [
-            "/extract  – Pass {'disease_name': '<disease>'} in JSON body"   ,
-            "/extract_get?disease_name=<disease>"]
+            "/extract  – Pass {'disease_name': 'actual_disease_name'} in JSON body"   ,
+            "/extract_get?disease_name=""actual_disease_name"]
     })
 
 @app.route("/extract", methods=["POST"])
