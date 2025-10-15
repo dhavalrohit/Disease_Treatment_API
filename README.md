@@ -106,5 +106,7 @@ Expected 96 from C header, got 88 from PyObject
 Run the following commands to fix it:
 
 pip uninstall numpy thinc spacy -y
+
 pip install numpy==2.2.6
+
 pip install spacy==3.8.7
