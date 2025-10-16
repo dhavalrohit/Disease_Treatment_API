@@ -127,4 +127,4 @@ Select .venv
 
 Installed mentioned dependencies 
 
-7.run app.py
+run app.py
