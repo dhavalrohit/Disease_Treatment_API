@@ -112,3 +112,13 @@ pip uninstall numpy thinc spacy -y
 pip install numpy==2.2.6
 
 pip install spacy==3.8.7
+
+
+##Setup Instructions for Running in Virtual Environement/VS Code
+1.Download Zip File From Github
+2.Extract and open folder in VS Code
+3.Select Python Version
+4.Select Create Virtual Environement
+5.Select .venv
+6.Installed mentioned dependencies 
+7.run app.py
