@@ -114,11 +114,17 @@ pip install numpy==2.2.6
 pip install spacy==3.8.7
 
 
-##Setup Instructions for Running in Virtual Environement/VS Code
-1.Download Zip File From Github
-2.Extract and open folder in VS Code
-3.Select Python Version
-4.Select Create Virtual Environement
-5.Select .venv
-6.Installed mentioned dependencies 
+## Setup Instructions for Running in Virtual Environement/VS Code
+Download Zip File From Github
+
+Extract and open folder in VS Code
+
+Select Python Version
+
+Select Create Virtual Environement
+
+Select .venv
+
+Installed mentioned dependencies 
+
 7.run app.py
