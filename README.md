@@ -8,6 +8,7 @@ This API extracts medications, pathology tests, and radiology tests for a given 
 2. Open the terminal and run the following commands:
 
 pip install flask pyngrok pandas flask-ngrok 
+
 pip install spacy==3.8.7 numpy==2.2.6
 
 pip install "en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85"
